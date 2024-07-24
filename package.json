@@ -1,0 +1,11 @@
+{
+  "name": "meu-pacote-docker",
+  "version": "1.0.0",
+  "description": "Meu pacote Docker Exemplo",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "phoenixsrd",
+  "license": "ISC"
+}
